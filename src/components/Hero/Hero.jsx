@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import React from "react";
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../../utils";
+import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   return (

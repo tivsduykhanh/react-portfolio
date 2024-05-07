@@ -10,7 +10,7 @@ export const Navbar = () => {
         Portfolio
       </a>
       <div className={styles.menu}>
-        <img
+      <img
           className={styles.menuBtn}
           src={
             menuOpen
