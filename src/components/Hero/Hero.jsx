@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Khanh</h1>
+        <h1 className={styles.title}>Hi, I'm LowK</h1>
         <p className={styles.description}>
           I'm a backend developer with 2 years of experience .NET, Javascript.
           .NET out if you'd like to learn more!
